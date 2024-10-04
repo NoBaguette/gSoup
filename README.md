@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gSoup
+- 👋 Hi, I’m nobaguette
 - 👀 I’m interested in programming small games for fun
 - 🌱 I’m currently learning GML, Python and C++
 - 💞️ I’m looking to collaborate on (empty)
